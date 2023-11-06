@@ -1,14 +1,14 @@
 {
   "functions": {
     "api/*.js": {
-      "memory": 128,
+      "memory": 64,
       "maxDuration": 10
     }
   },
   "redirects": [
     {
       "source": "/",
-       "destination": "https://gui37-readme-stats.vercel.app/"
+        "destination": "https://github.com/Gui37/github-readme-stats/"
     }
   ]
 }
